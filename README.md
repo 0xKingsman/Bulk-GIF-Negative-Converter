@@ -17,7 +17,7 @@ Bulk GIF Negative Converter is a Python script that uses the Pillow library to c
     ```
 3. Select the directory
 
-   Place the script in the same folder as the Images you want to work with.
+   Place the script in the same folder as the GIF's you want to work with.
    
 5. Run the script:
 
